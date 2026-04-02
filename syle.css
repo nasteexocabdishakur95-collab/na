@@ -1,0 +1,27 @@
+ body {
+  font-family: Arial;
+  background: white;
+}
+
+header {
+  background: black;
+  color: white;
+}
+
+nav a {
+  color: yellow;
+  font-style: italic;
+}
+
+h1 {
+  color: orange;
+}
+
+main {
+  color: black;
+}
+
+footer {
+  background: gray;
+  color: white;
+}
